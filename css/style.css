@@ -1,0 +1,32 @@
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+.navbar {
+    box-shadow: 0 3px 10px #3292A6;
+    margin-bottom: 3px;
+}
+
+header {
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(49, 146, 165, 0.7), rgba(49, 146, 165, 0.7)), url(../images/images/mountains.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+#inline-form {
+    background: #343A40;
+}
+
+#cards {
+    margin: 5px;
+}
+
+#meet img {
+    margin: 0 auto;
+    margin-top: -50px;
+}
+
+#touch {
+    background: #F8F9FA;
+}
